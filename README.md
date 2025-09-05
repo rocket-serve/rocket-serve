@@ -1,16 +1,26 @@
-## Hi there 👋
+# 🚀 Rocket-Serve Portfolio
 
-<!--
-**rocket-serve/rocket-serve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome! This repository showcases my journey as I transition into software development. It includes projects and exercises from the **Introduction to Software Development (Coursera, Amazon)** course. 
 
-Here are some ideas to get you started:
+## 📚 What’s Inside
+- ✅ Java basics (variables, loops, methods, conditionals)  
+- ✅ Object-Oriented Programming (classes, constructors, inheritance)  
+- ✅ Control structures & problem-solving exercises  
+- ✅ Hands-on code samples from real assignments  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Why this Repo?
+This portfolio demonstrates my ability to:
+- Write clean, working Java code
+- Use GitHub for version control and project organization
+- Build a foundation for future development in backend, web, and cloud environments
+
+## 🔗 Next Steps
+I’ll continue updating this repository with:
+- Expanded Java projects
+- Personal practice challenges
+- Additional portfolio projects highlighting my growth as a developer
+
+---
+
+💼 **About Me:**  
+Owner/Operator of Rocketserve.io, now building a career in tech with a strong foundation in problem-solving, service, and continuous learning.
